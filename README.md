@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mayank Dandare</h1>
-<h3 align="center">A passionate fullstack developer &Penetration Tester from India</h3>
+<h3 align="center">A passionate fullstack developer & Penetration Tester from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
