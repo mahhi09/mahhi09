@@ -1,56 +1,76 @@
-# Hey, I'm Mayank Dandare 👋
-
-> **Computer Science Student • Cybersecurity Enthusiast**
-
-<br/>
 
 
-## 🚀 Projects
+<div align="center">
 
-### 🐍 Velora
-> It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.
+# 👋 Hey, I'm Mayank Dandare
 
-**🔗** https://github.com/mahhi09/Velora
+### `Computer Science Student` • `Python Developer` • `Cybersecurity Enthusiast`
 
-<br/>
+> **"A broken UI can have a beautiful backend."** 🖤
 
-### Inception
-> In the Inception Phase.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Things.;Learning+Cybersecurity.;Writing+Python.;Always+Improving." />
 
-**🔗** https://github.com/mahhi09/SnakeGame
+</div>
 
-<br/>
+---
 
-### 🌐 Inception
-> In the Inception Phase.
-
-**🔗** https://github.com/mahhi09/Portfolio
-
-
-<br/>
-
-### ⚡ Inception 4
-> In the Inception Phaset.
-
-**🔗** https://github.com/mahhi09/PROJECT_4
-
-<br/>
-
-## 📝 Note
-
-> Build. Break. Learn. Repeat.
-
-> Every project here represents a step in my learning journey.
-> Feel free to explore the repositories, leave feedback, or contribute ideas.
-
-
-<br/><br/>
+# ⚡ Tech Stack
 
 <p align="center">
-  Thanks for visiting. ⭐
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,bash,vscode"/>
 </p>
 
+---
 
+# 🚀 Projects
+
+### 🌌 Velora
+
+*It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.*
+
+<a href="https://github.com/mahhi09/Velora">
+<img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br>
+
+###  Game
+
+*A Inception Phase.*
+
+<a href="">
+<img src="">
+</a>
+
+<a href="https://github.com/mahhi09/snake-game">
+<img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br>
+
+### 🔐 Your Next Project
+
+*A short description about your next awesome project.*
+
+<a href="https://github.com/mahhi09/project-name">
+<img src="https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+# 📝 Note
+
+> Every repository here is a step in my journey.
+>
+> I build to learn, break to understand, and improve with every project.
+
+---
+
+<div align="center">
+
+⭐ Thanks for stopping by.
+
+</div>
 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
