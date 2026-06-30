@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 Snake Game
+###  Game
 > *A game in its Inception Phase.*
 
 [![Source Code](https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/snake-game)
