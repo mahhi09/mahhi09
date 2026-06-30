@@ -1,65 +1,50 @@
 # Hey, I'm Mayank Dandare 👋
 
-> **Computer Science Student • Python Developer • Cybersecurity Enthusiast**
+> **Computer Science Student • Cybersecurity Enthusiast**
 
-> *"A broken UI can still hide a beautiful backend."* 🖤
+<br/>
 
-I enjoy building useful tools, automating tasks, and exploring cybersecurity.
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,bash,vscode" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahhi09/mahhi09/output/snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ## 🚀 Projects
 
-<p align="center">
+### 🐍 Velora
+> It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.
 
-<a href="https://github.com/mahhi09/Velora">
-<img src="https://img.shields.io/badge/Velora-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**🔗** https://github.com/mahhi09/Velora
 
-<a href="https://github.com/mahhi09/PROJECT_2">
-<img src="https://img.shields.io/badge/PROJECT_2-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<br/>
 
-<a href="https://github.com/mahhi09/PROJECT_3">
-<img src="https://img.shields.io/badge/PROJECT_3-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### Inception
+> In the Inception Phase.
 
-<a href="https://github.com/mahhi09/PROJECT_4">
-<img src="https://img.shields.io/badge/PROJECT_4-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**🔗** https://github.com/mahhi09/SnakeGame
 
-</p>
+<br/>
 
----
+### 🌐 Inception
+> In the Inception Phase.
+
+**🔗** https://github.com/mahhi09/Portfolio
+
+
+<br/>
+
+### ⚡ Inception 4
+> In the Inception Phaset.
+
+**🔗** https://github.com/mahhi09/PROJECT_4
+
+<br/>
 
 ## 📝 Note
 
 > Build. Break. Learn. Repeat.
->
+
 > Every project here represents a step in my learning journey.
 > Feel free to explore the repositories, leave feedback, or contribute ideas.
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahhi09&label=Profile%20Views&color=111111&style=flat-square" />
-</p>
+<br/><br/>
 
 <p align="center">
   Thanks for visiting. ⭐
