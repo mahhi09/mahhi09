@@ -42,7 +42,7 @@
 ## 🚀 Projects
 
 ### 🌌 Velora
-> *Log sender to your mail or drive.*
+> *It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
