@@ -44,12 +44,12 @@
 ###  J.A.R.V.I.S
 > *JARVIS You Know Who I Am... <context>If not search on google jarvis ai ~</context>*
 
-[![View Repo]([https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/JARVIS.git)
+[![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
 ---
 
 ###  Velora
-> *Keylooger Send Log File's Of Target's To Your Email & GoogleDrive*
+> *Go To Repo To GetKnow About*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
