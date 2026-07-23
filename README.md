@@ -44,12 +44,12 @@
 ###  J.A.R.V.I.S
 > *JARVIS You Know Who I Am... <context>If not search on google jarvis ai ~</context>*
 
-[![View Repo]([https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora](https://github.com/mahhi09/JARVIS.git))
+[![View Repo]([https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora](https://github.com/mahhi09/JARVIS.git)
 
 ---
 
 ###  Velora
-> *It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.*
+> *Keylooger Send Log File's Of Target's To Your Email & GoogleDrive*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
