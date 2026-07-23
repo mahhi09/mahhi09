@@ -41,17 +41,17 @@
 
 ## 🚀 Projects
 
-### 🌌 Velora
-> *It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.*
+###  J.A.R.V.I.S
+> *JARVIS You Know Who I Am... <context>If not search on google jarvis ai ~</context>*
 
 [![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
 ---
 
-###  Game
-> *A game in its Inception Phase.*
+###  Velora
+> *It's an keylogger tool, captures keys on target system make log of it sends to you on mail & google drive.*
 
-[![Source Code](https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/snake-game)
+[![View Repo](https://img.shields.io/badge/View_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahhi09/Velora)
 
 ---
 
